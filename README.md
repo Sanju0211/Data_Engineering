@@ -4,10 +4,7 @@ Study_Guide_With_Projects
 
 **Job Profile:**
 
-**🧠 INFOGRAPHIC LAYOUT DESIGN**
-(Text-to-Graphic Hierarchy for Visual Designer or Canva/Figma Layout)
-🔹 Header (Top Section)
-Banner Title (Big & Bold):
+Banner Title:
 📢 We’re Hiring!
 
 **Role:**
