@@ -1,5 +1,3 @@
-Sure! Below is a **professional and clean README.md** file format tailored for your **GenAI Developer (Python, LLMs, Azure Databricks)** role. You can copy and paste this directly into a `README.md` file in your GitHub repository or project folder.
-
 ---
 
 # 🧠 GenAI Developer Study Guide with Projects
@@ -60,78 +58,6 @@ You will be responsible for designing and implementing Generative AI solutions u
 
 ---
 
-## 📂 Project Structure Overview
-
-```
-/genai-developer-study-guide/
-│
-├── /projects/
-│   ├── markov_chain_text_generator.py
-│   ├── rnn_lstm_text_generator.py
-│   └── transformer_based_ai_model.py
-│
-├── /data/
-│   └── sample_datasets/
-│
-├── /docs/
-│   ├── langchain_migration_guide.md
-│   └── azure_databricks_setup.md
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
-```
-
----
-
-## 📥 Installation
-
-To run the projects locally, install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-> Ensure you are using a virtual environment (`venv`) for isolation.
-
----
-
-## 🧪 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/genai-developer-study-guide.git
-   cd genai-developer-study-guide
-   ```
-
-2. Create and activate a virtual environment:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate    # On Linux/macOS
-   venv\Scripts\activate       # On Windows
-   ```
-
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Run any of the projects from the `/projects/` directory.
-
----
-
-## 🎯 Learning Objectives
-
-By working through these projects, you'll gain hands-on experience in:
-
-- Building basic to advanced text generation models using Markov Chains, RNNs, and Transformers.
-- Using **LangChain** for integrating LLMs and managing prompts.
-- Deploying and managing AI pipelines on **Azure Databricks**.
-- Writing clean, maintainable, and production-ready code.
-- Applying **data governance** and **compliance standards** in AI workflows.
-
----
-
 ## 🧑‍🏫 Who Is This For?
 
 This guide is ideal for experienced developers and data engineers looking to transition into or enhance their skills in **Generative AI development**, especially with **Python**, **LLMs**, and **Azure Databricks**.
@@ -168,5 +94,3 @@ For questions or collaboration opportunities, reach out to us at:
 MIT License – see [LICENSE](LICENSE) for more details.
 
 ---
-
-Let me know if you want me to help you create the actual files like `requirements.txt`, `LICENSE`, or the markdown docs referenced in the structure!
