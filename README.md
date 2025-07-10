@@ -6,6 +6,7 @@ Study_Guide_With_Projects
 
 📢 We’re Hiring!
 
+
 **Role:**
 💼 GenAI Developer (Python, LLMs, Azure Databricks)
 
@@ -20,6 +21,7 @@ Organize this section in 2–3 columns with icons:
 **💰 Pay: ₹2.25 Lacs/month (including GST)**
 
 🧑‍💼 Experience: 4–7 Years
+
 
 ✅ Must-Have Skills (Bullet Format in a List Panel)
 
@@ -40,6 +42,7 @@ Stakeholder communication
 Data governance & compliance
 
 Data quality profiling & rules
+
 
 
 ⭐ Preferred Skills (Secondary Panel / Soft-Gray Section)
