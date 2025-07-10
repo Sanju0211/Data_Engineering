@@ -4,7 +4,6 @@ Study_Guide_With_Projects
 
 **Job Profile:**
 
-Banner Title:
 📢 We’re Hiring!
 
 **Role:**
